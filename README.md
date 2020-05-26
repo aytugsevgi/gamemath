@@ -1,13 +1,10 @@
-# projectMath
-
-A new Flutter project.
 
 # GameMath Gif & Screenshots 
-Home Screen
+### Home Screen
 ![gif1](images/homescreen.gif)
-Game Screen
+### Game Screen
 ![gif1](images/gamescreen.gif)
-Screnshots
+### Screnshots
 <img src="images/ss1.png" width="425"/> <img src="images/ss2.png" width="425"/> 
 <img src="images/ss3.png" width="425"/> <img src="images/ss4.png" width="425"/>
 
