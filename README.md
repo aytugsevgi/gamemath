@@ -1,3 +1,5 @@
+Hello, 
+I did this project to improve myself in writing modular and reusable code.
 
 # GameMath Gif & Screenshots 
 ### Home Screen
